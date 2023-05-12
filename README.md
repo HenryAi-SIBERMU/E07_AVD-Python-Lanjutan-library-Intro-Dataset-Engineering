@@ -12,13 +12,13 @@
 
 ### [Link Repo Preview Python dasar](https://github.com/ajaymache/machine-learning-yearning/blob/master/full%20book/machine-learning-yearning.pdf)
 ### 1. Preview Tipe Data
+- Number (int,Float)
 - Strings
-- Intergers
-- Lists
-- Dictionaries
+- Boolean
+- List
 - Tuples
 - Sets
-- Boolean
+- Dictionary
 
 ![Logo](https://i.ibb.co/nnCZrfL/Steam-VR-url.png)
 
