@@ -1,4 +1,4 @@
-# Pertemuan 8 - Preview Python dasar, Python Lanjutan (Library) & Dataset Engineering
+# Pertemuan 7 - Preview Python dasar, Python Lanjutan (Library) & Dataset Engineering
 
 ### 💡 Outline Pertemuan 8
 1. **[Preview Python dasar](-preview-python-dasar-tipe-data-link-repo-preview-python-dasar-)**
@@ -10,7 +10,7 @@
 
 <h1 align="center">📍 Preview Python dasar (Tipe Data) </h1>
 
-### [Link Repo Preview Python dasar](https://github.com/ajaymache/machine-learning-yearning/blob/master/full%20book/machine-learning-yearning.pdf)
+### [Link Clone Repo Preview Python dasar](https://github.com/HenryAi-SIBERMU/Pertemuan08-Python-Lanjutan-library-Intro-Dataset-Engineering/blob/main/1.%20Preview%20python%20dasar%20.ipynb)
 ### 1. Preview Tipe Data
 - Number (int,Float)
 - Strings
