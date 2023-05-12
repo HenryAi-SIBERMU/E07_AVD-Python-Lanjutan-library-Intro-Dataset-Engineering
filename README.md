@@ -31,7 +31,7 @@
 - Class & Object 
 - Method init dan attributes
 
-![Logo](https://i.ibb.co/nnCZrfL/Steam-VR-url.png)
+![Logo](https://i.ibb.co/h812wNz/Untitled-picture.png)
 
 <h1 align="center">📍Python dasar lanjutan (Library) </h1>
 
