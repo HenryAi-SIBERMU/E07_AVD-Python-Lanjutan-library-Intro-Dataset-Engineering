@@ -35,8 +35,19 @@
 
 <h1 align="center">📍Python dasar lanjutan (Library) </h1>
 
+### 1. Library (Intro)
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+
+### [Link Clone Repo Library (Intro)](https://github.com/HenryAi-SIBERMU/Pertemuan08-Python-Lanjutan-library-Intro-Dataset-Engineering/blob/main/1.%20Preview%20python%20dasar%20.ipynb)
+
 --
 
 
 <h1 align="center">📍Intro Dataset Engineering </h1>
+
+[Intro Data engineering Atau Preprocessing Data](https://solusi.sibermu.ac.id/pluginfile.php/113473/mod_resource/content/7/7.pdf)
+
 --
