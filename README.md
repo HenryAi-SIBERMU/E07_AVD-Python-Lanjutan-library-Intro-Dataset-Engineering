@@ -27,6 +27,8 @@
 - Indexing maju dimulai dari 0
 - String tidak bisa di index / Diganti data nya (Immutable)
 
+![Logo](https://i1.faceprep.in/Companies-1/string-slicing-in-python.png)
+
 ### 3. OOP 
 - Class & Object 
 - Method init dan attributes
