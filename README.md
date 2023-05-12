@@ -1,6 +1,6 @@
 # Pertemuan 7 - Preview Python dasar, Python Lanjutan (Library) & Dataset Engineering
 
-### 💡 Outline Pertemuan 8
+### 💡 Outline Pertemuan 7
 1. **[Preview Python dasar](#-preview-python-dasar-tipe-data-)**
 2. **[Python dasar lanjutan (Library)](#python-dasar-lanjutan-library-)**
 3. **[Intro Dataset Engineering](#intro-dataset-engineering-)**
