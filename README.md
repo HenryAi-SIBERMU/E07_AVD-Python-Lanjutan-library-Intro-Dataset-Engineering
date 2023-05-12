@@ -22,7 +22,7 @@
 
 ![Logo](https://i.ibb.co/nnCZrfL/Steam-VR-url.png)
 
-### 2. Indexing, Slicing, Methods, Iterasi(Loop), & Function
+### 2. Operator, Indexing, Slicing, Methods, Iterasi(Loop), & Function
 - Setiap Objek Tipe data memiliki Method yang memiliki fungsi 
 - Indexing maju dimulai dari 0
 - String tidak bisa di index / Diganti data nya (Immutable)
