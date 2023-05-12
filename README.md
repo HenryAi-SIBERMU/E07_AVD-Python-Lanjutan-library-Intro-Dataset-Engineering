@@ -1,7 +1,7 @@
 # Pertemuan 7 - Preview Python dasar, Python Lanjutan (Library) & Dataset Engineering
 
 ### 💡 Outline Pertemuan 8
-1. **[Preview Python dasar](-preview-python-dasar-tipe-data-link-repo-preview-python-dasar-)**
+1. **[Preview Python dasar](-preview-python-dasar-tipe-data-)**
 2. **[Python dasar lanjutan (Library)](#python-dasar-lanjutan-library-)**
 3. **[Intro Dataset Engineering](#intro-dataset-engineering-)**
 
@@ -26,8 +26,6 @@
 - Setiap Objek Tipe data memiliki Method yang memiliki fungsi 
 - Indexing maju dimulai dari 0
 - String tidak bisa di index / Diganti data nya (Immutable)
-
-![Logo](https://i1.faceprep.in/Companies-1/string-slicing-in-python.png)
 
 ### 3. OOP 
 - Class & Object 
